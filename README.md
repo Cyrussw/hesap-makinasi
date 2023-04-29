@@ -9,4 +9,4 @@ Bu basit hesap makinesi uygulaması, kullanıcının seçtiği işleme göre iki
 3. Kullanıcı, yapmak istediği işlemi seçer.
 4. Kullanıcı, işlem yapılacak iki sayıyı girer.
 5. Program, seçilen işleme göre, iki sayı üzerinde işlem yapar ve sonucu ekrana yazdırır.
-6. Kullanıcı, programı kapatmak istediğinde, seçeneklere "0" girerek çıkış yapabilir.
+6. Kullanıcı, programı kapatmak istediğinde, seçeneklere "5" girerek çıkış yapabilir.
